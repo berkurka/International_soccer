@@ -1,0 +1,245 @@
+team,world_cup_tie_pct,world_cup_games,world_cup_ties
+Israel,0.6666666666666666,3,2
+Angola,0.6666666666666666,3,2
+Ireland,0.6153846153846154,13,8
+Wales,0.6,5,3
+New Zealand,0.5,6,3
+South Africa,0.4444444444444444,9,4
+Senegal,0.4,5,2
+Egypt,0.4,5,2
+Northern Ireland,0.38461538461538464,13,5
+Norway,0.375,8,3
+Paraguay,0.37037037037037035,27,10
+Trinidad and Tobago,0.3333333333333333,3,1
+Honduras,0.3333333333333333,9,3
+Tunisia,0.3333333333333333,12,4
+German DR,0.3333333333333333,6,2
+Cuba,0.3333333333333333,3,1
+Kuwait,0.3333333333333333,3,1
+England,0.3225806451612903,62,20
+Bulgaria,0.3076923076923077,26,8
+Scotland,0.30434782608695654,23,7
+Cameroon,0.30434782608695654,23,7
+Korea Republic,0.2903225806451613,31,9
+Morocco,0.2857142857142857,14,4
+Sweden,0.2826086956521739,46,13
+Costa Rica,0.26666666666666666,15,4
+Mexico,0.2641509433962264,53,14
+Italy,0.25301204819277107,83,21
+Ghana,0.25,12,3
+Slovakia,0.25,4,1
+Netherlands,0.24,50,12
+Romania,0.23809523809523808,21,5
+Japan,0.23529411764705882,17,4
+Iran,0.23076923076923078,13,3
+Uruguay,0.23076923076923078,52,12
+Algeria,0.23076923076923078,13,3
+Australia,0.23076923076923078,13,3
+Belgium,0.21951219512195122,41,9
+Spain,0.21666666666666667,60,13
+Yugoslavia,0.21212121212121213,33,7
+Chile,0.21212121212121213,33,7
+France,0.2033898305084746,59,12
+Ukraine,0.2,5,1
+Greece,0.2,10,2
+Peru,0.2,15,3
+Russia,0.1951219512195122,41,8
+Germany,0.18867924528301888,106,20
+Portugal,0.18518518518518517,27,5
+USA,0.18181818181818182,33,6
+Switzerland,0.18181818181818182,33,6
+Argentina,0.18181818181818182,77,14
+Slovenia,0.16666666666666666,6,1
+Bolivia,0.16666666666666666,6,1
+Czechoslovakia,0.16666666666666666,30,5
+Nigeria,0.16666666666666666,18,3
+Brazil,0.16346153846153846,104,17
+Poland,0.16129032258064516,31,5
+Saudi Arabia,0.14285714285714285,14,2
+Korea DPR,0.14285714285714285,7,1
+Austria,0.13793103448275862,29,4
+Denmark,0.125,16,2
+Croatia,0.125,16,2
+Colombia,0.1111111111111111,18,2
+Ivory Coast,0.1111111111111111,9,1
+Ecuador,0.1,10,1
+Turkey,0.1,10,1
+Serbia,0.1,10,1
+Hungary,0.09375,32,3
+United Arab Emirates,0.0,3,0
+Togo,0.0,3,0
+Indonesia,0.0,1,0
+Bosnia-Herzegovina,0.0,3,0
+Canada,0.0,3,0
+Iraq,0.0,3,0
+Congo DR,0.0,3,0
+Czech Republic,0.0,3,0
+El Salvador,0.0,6,0
+Jamaica,0.0,3,0
+Haiti,0.0,3,0
+China,0.0,3,0
+Afghanistan,,0,0
+Albania,,0,0
+American Samoa,,0,0
+Andorra,,0,0
+Anguilla,,0,0
+Antigua and Barbuda,,0,0
+Armenia,,0,0
+Aruba,,0,0
+Azerbaijan,,0,0
+Bahamas,,0,0
+Bahrain,,0,0
+Bangladesh,,0,0
+Barbados,,0,0
+Belarus,,0,0
+Belize,,0,0
+Benin,,0,0
+Bermuda,,0,0
+Bhutan,,0,0
+Bonaire,,0,0
+Botswana,,0,0
+British Virgin Islands,,0,0
+Brunei,,0,0
+Burkina Faso,,0,0
+Burma,,0,0
+Burundi,,0,0
+Cambodia,,0,0
+Cape Verde,,0,0
+Cayman Islands,,0,0
+Central African Republic,,0,0
+Chad,,0,0
+Comoros,,0,0
+Congo,,0,0
+Cook Islands,,0,0
+Curaçao,,0,0
+Cyprus,,0,0
+Djibouti,,0,0
+Dominica,,0,0
+Dominican Republic,,0,0
+East Timor,,0,0
+Equatorial Guinea,,0,0
+Eritrea,,0,0
+Estonia,,0,0
+Ethiopia,,0,0
+Faroe Islands,,0,0
+Fiji,,0,0
+Finland,,0,0
+French Guyana,,0,0
+Gabon,,0,0
+Gambia,,0,0
+Georgia,,0,0
+Gibraltar,,0,0
+Greenland,,0,0
+Grenada,,0,0
+Guadeloupe,,0,0
+Guam,,0,0
+Guatemala,,0,0
+Guernsey,,0,0
+Guinea,,0,0
+Guinea-Bissau,,0,0
+Guyana,,0,0
+Hong Kong,,0,0
+Iceland,,0,0
+India,,0,0
+Jersey,,0,0
+Jordan,,0,0
+Kazakhstan,,0,0
+Kenya,,0,0
+Kiribati,,0,0
+Kosovo,,0,0
+Kyrgyzstan,,0,0
+Laos,,0,0
+Latvia,,0,0
+Lebanon,,0,0
+Lesotho,,0,0
+Liberia,,0,0
+Libya,,0,0
+Liechtenstein,,0,0
+Lithuania,,0,0
+Luxembourg,,0,0
+Macau,,0,0
+Macedonia,,0,0
+Madagascar,,0,0
+Malawi,,0,0
+Malaysia,,0,0
+Maldives,,0,0
+Mali,,0,0
+Malta,,0,0
+Manchukuo,,0,0
+Martinique,,0,0
+Mauritania,,0,0
+Mauritius,,0,0
+Mayotte,,0,0
+Micronesia FS,,0,0
+Moldova,,0,0
+Monaco,,0,0
+Mongolia,,0,0
+Montenegro,,0,0
+Montserrat,,0,0
+Mozambique,,0,0
+Namibia,,0,0
+Nepal,,0,0
+New Caledonia,,0,0
+Nicaragua,,0,0
+Niger,,0,0
+Niue,,0,0
+North Vietnam,,0,0
+Northern Cyprus,,0,0
+Northern Mariana Islands,,0,0
+Oman,,0,0
+Pakistan,,0,0
+Palau,,0,0
+Palestine,,0,0
+Panama,,0,0
+Papua New Guinea,,0,0
+Philippines,,0,0
+Puerto Rico,,0,0
+Qatar,,0,0
+Rwanda,,0,0
+Réunion,,0,0
+Saarland,,0,0
+Samoa,,0,0
+San Marino,,0,0
+Seychelles,,0,0
+Sierra Leone,,0,0
+Singapore,,0,0
+Sint Maarten,,0,0
+Solomon Islands,,0,0
+Somalia,,0,0
+South Sudan,,0,0
+Sri Lanka,,0,0
+St. Kitts and Nevis,,0,0
+St. Lucia,,0,0
+St. Martin,,0,0
+St. Pierre & Miquelon,,0,0
+St. Vincent and the Grenadines,,0,0
+Sudan,,0,0
+Suriname,,0,0
+Swaziland,,0,0
+Syria,,0,0
+São Tomé and Príncipe,,0,0
+Tahiti,,0,0
+Taiwan,,0,0
+Tajikistan,,0,0
+Tanzania,,0,0
+Thailand,,0,0
+Tibet,,0,0
+Tonga,,0,0
+Turkmenistan,,0,0
+Turks and Caicos Islands,,0,0
+Tuvalu,,0,0
+Uganda,,0,0
+Uzbekistan,,0,0
+Vanuatu,,0,0
+Vatican,,0,0
+Venezuela,,0,0
+Vietnam,,0,0
+Vietnam Republic,,0,0
+Virgin Islands,,0,0
+Wallis Islands and Futuna,,0,0
+Western Australia,,0,0
+Yemen,,0,0
+Yemen DPR,,0,0
+Zambia,,0,0
+Zanzibar,,0,0
+Zimbabwe,,0,0
